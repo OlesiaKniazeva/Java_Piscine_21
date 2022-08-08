@@ -1,3 +1,30 @@
 [submodule "java-piscine-day-00"]
 	path = java-piscine-day-00
 	url = git@github.com:Ollietani/java-piscine-day-00.git
+[submodule "java-piscine-day-01"]
+	path = java-piscine-day-01
+	url = git@github.com:Ollietani/java-piscine-day-01.git
+[submodule "java-piscine-day-02"]
+	path = java-piscine-day-02
+	url = git@github.com:Ollietani/java-piscine-day-02.git
+[submodule "java-piscine-day-03"]
+	path = java-piscine-day-03
+	url = git@github.com:Ollietani/java-piscine-day-03.git
+[submodule "java-piscine-day-04"]
+	path = java-piscine-day-04
+	url = git@github.com:Ollietani/java-piscine-day-04.git
+[submodule "java-piscine-day-05"]
+	path = java-piscine-day-05
+	url = git@github.com:Ollietani/java-piscine-day-05.git
+[submodule "java-piscine-day-06"]
+	path = java-piscine-day-06
+	url = git@github.com:Ollietani/java-piscine-day-06.git
+[submodule "java-piscine-day-07"]
+	path = java-piscine-day-07
+	url = git@github.com:Ollietani/java-piscine-day-07.git
+[submodule "java-piscine-day-08"]
+	path = java-piscine-day-08
+	url = git@github.com:Ollietani/java-piscine-day-08.git
+[submodule "java-piscine-day-09"]
+	path = java-piscine-day-09
+	url = git@github.com:Ollietani/java-piscine-day-09.git
